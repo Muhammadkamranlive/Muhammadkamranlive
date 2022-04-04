@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.iqfactors.com/](https://www.iqfactors.com/)
 
-- 💬 Ask me about **react ,Node js react Query MongoDB,Graphql,firebase services,JWT,express js Firebase firstore,Flutter,Posgresql,Mongoose,MYSQL,Design Patterns .**
+- 💬 Ask me about **react ,Node js react Query MongoDB,Graphql,firebase services,JWT,express js Firebase firestore,Flutter,Postgresql,Mongoose,MYSQL,Design Patterns .**
 
 - 📫 How to reach me **Muhammadkamranntu@gmail.com**
 
