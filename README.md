@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/images-107c9.appspot.com/o/headrr.jpg?alt=media&token=87483baf-14bc-4eb7-95b5-2e702b926ce4)](https://muhammadkamranlive.web.app/)
 <h1 align="center">Hi 👋, I'm Muhammad Kamran</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://firebasestorage.googleapis.com/v0/b/images-107c9.appspot.com/o/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f64633534356535613066393363396232626631643466306166353465626266662f74656e6f722e676966.gif?alt=media&token=888a07d0-adab-4b66-9f9e-bff984742a10" alt="muhammadkamranlive" /> </p>
 
